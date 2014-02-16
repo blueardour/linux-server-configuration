@@ -1,0 +1,38 @@
+
+Disk /dev/sda: 500.1 GB, 500107862016 bytes
+255 heads, 63 sectors/track, 60801 cylinders, total 976773168 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 4096 bytes
+I/O size (minimum/optimal): 4096 bytes / 4096 bytes
+Disk identifier: 0x9ee99ee9
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sda1   *          63   156248189    78124063+   7  HPFS/NTFS/exFAT
+Partition 1 does not start on physical sector boundary.
+/dev/sda2       156248190   282085334    62918572+   7  HPFS/NTFS/exFAT
+Partition 2 does not start on physical sector boundary.
+/dev/sda3       282085335   407922479    62918572+   7  HPFS/NTFS/exFAT
+Partition 3 does not start on physical sector boundary.
+/dev/sda4       407922686   976768064   284422689+   f  W95 Ext'd (LBA)
+Partition 4 does not start on physical sector boundary.
+/dev/sda5       407922688   449720319    20898816   83  Linux
+/dev/sda6       449722368   492689407    21483520   83  Linux
+/dev/sda7       492691456   508407807     7858176   82  Linux swap / Solaris
+/dev/sda8       508409118   976768064   234179473+   7  HPFS/NTFS/exFAT
+Partition 8 does not start on physical sector boundary.
+
+Disk /dev/sdb: 80.0 GB, 80026361856 bytes
+255 heads, 63 sectors/track, 9729 cylinders, total 156301488 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x6979cfb8
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sdb1   *        2048    20465663    10231808    7  HPFS/NTFS/exFAT
+/dev/sdb2        20466810    41431634    10482412+   7  HPFS/NTFS/exFAT
+/dev/sdb3        41433086   156301311    57434113    5  Extended
+/dev/sdb5        41433088    61431807     9999360   83  Linux
+/dev/sdb6        61433856    82405375    10485760   83  Linux
+/dev/sdb7        82407424   151613439    34603008    7  HPFS/NTFS/exFAT
+/dev/sdb8       151615488   156301311     2342912   82  Linux swap / Solaris
